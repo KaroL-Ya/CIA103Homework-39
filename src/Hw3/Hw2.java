@@ -9,7 +9,7 @@ public class Hw2 {
 		
 		Scanner sc = new Scanner(System.in);
 		int enter = sc.nextInt();
-		int i = (int) (Math.random() * 10000);
+		int i = (int) (Math.random() * 10);
 
 		
 
